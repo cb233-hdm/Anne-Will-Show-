@@ -1,0 +1,29 @@
+id,name,party,sector,country
+uvdl,Ursula von der Leyen,CDU,Politik,Germany
+lk,Lars Klingbeil,SPD,Politik,Germany
+nr,Norbert Röttgen,CDU,Politik,Germany
+sw,Sahra Wagenknecht,Die Linke,Politik,Germany
+cs,Dr. Constanze Stelzenmüller,,Juristin und Publizistin,USA
+cl,Christian Lindner,FDP,Politik,Germany
+ks,Karl Schlögel,,Historik,Germany
+lm,Ljudmyla Melnyk,,Wissenschaft,Ukraine
+kd,Kristina Dunz,,Leitung,Germany
+el,Egils Levits,,Präsidium,Lettland
+ab,Annalena Baerbock,Die Grünen,Politik,Germany
+ft,Frans Timmermans,,Politik,
+am,Andrij Melnyk,,Politik,
+agl,Alexander Graf Lambsdorff,FDP,Politik,
+er,Egon Ramms,,Bundeswehr,
+rh,Robert Habeck,Die Grünen,Politik,
+cm,Claudia Major,,Wissenschaft,
+kp,Katja Petrowskaja,,Wissenschaft & Journalismus,
+rk,Roderich Kiesewetter,CDU,Politik,
+CDU,CDU,CDU,,Germany
+SPD,SPD,SPD,,Germany
+FDP,FDP,FDP,,Germany
+Linke,Die Linke,Die Linke,,Germany
+Grünen,Die Grünen,Die Grünen,,Germany
+500,Folge 500,,,
+501,Folge 501,,,
+502,Folge 502,,,
+503,Folge 503,,,
